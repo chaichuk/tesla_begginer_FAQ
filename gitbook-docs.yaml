@@ -1,2 +1,9 @@
 ﻿site:
   title: Tesla Ukraine Community Docs
+  structure:
+    - type: space
+      key: tesla-ukraine-faq
+      title: FAQ
+      path: faq
+      content:
+        directory: ./
