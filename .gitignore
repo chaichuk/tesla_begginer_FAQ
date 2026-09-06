@@ -1,0 +1,17 @@
+﻿# Байт-компіляція Python
+__pycache__/
+*.py[cod]
+
+# Тимчасові файли MkDocs
+site/
+.cache/
+
+# Великі файли чатів (не комітити!)
+Tesla_3-Y_ChatExport_2026-09-01/
+Tesla_repair_ChatExport_2026-08-31/
+chat_analysis_results.json
+
+# Системні файли
+.DS_Store
+Thumbs.db
+*.log

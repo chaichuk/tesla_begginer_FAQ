@@ -1,0 +1,119 @@
+site_name: 'Tesla Україна — Wiki для початківців'
+site_description: 'Відповіді на найчастіші питання власників Tesla в Україні'
+site_url: 'https://chaichuk.github.io/tesla_begginer_FAQ/'
+site_author: 'Спільнота Tesla Україна'
+
+repo_url: 'https://github.com/chaichuk/tesla_begginer_FAQ'
+repo_name: 'chaichuk/tesla_begginer_FAQ'
+edit_uri: 'edit/main/docs/'
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: uk
+  palette:
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-night
+        name: 'Темна тема'
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: black
+      accent: red
+      toggle:
+        icon: material/weather-sunny
+        name: 'Світла тема'
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: assets/tesla_logo.svg
+  favicon: assets/tesla_logo.svg
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.action.view
+    - content.code.copy
+    - toc.follow
+
+plugins:
+  - search:
+      lang: uk
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+      locale: uk
+      fallback_to_build_date: true
+      enable_git_follow: false
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      title: 'На цій сторінці'
+  - attr_list
+  - md_in_html
+
+extra:
+  social:
+    - icon: fontawesome/brands/telegram
+      link: 'https://t.me/TeslaM3Y_Ukraine'
+      name: 'Telegram спільнота'
+    - icon: fontawesome/brands/github
+      link: 'https://github.com/chaichuk/tesla_begginer_FAQ'
+  generator: false
+
+copyright: 'Зроблено з ❤️ спільнотою Tesla Україна'
+
+nav:
+  - 'Головна': index.md
+  - 'Перші кроки':
+    - getting-started/index.md
+    - 'Додаток Tesla': getting-started/app-setup.md
+    - 'Переоформлення авто': getting-started/account-transfer.md
+    - 'Чорний список Tesla': getting-started/black-list.md
+    - 'Перевірка Carfax': getting-started/carfax-check.md
+  - 'Model 3':
+    - model3/index.md
+    - 'США vs Європа': model3/us-vs-eu.md
+    - 'Порт зарядки': model3/charging-port.md
+  - 'Model Y':
+    - modely/index.md
+    - 'Особливості': modely/features.md
+  - 'Зарядка':
+    - charging/index.md
+    - 'Домашня зарядка': charging/home-charging.md
+    - 'Адаптери': charging/adapters.md
+    - 'Supercharger в Україні': charging/supercharger.md
+    - 'Підготовка батареї': charging/battery-prep.md
+  - 'Обслуговування':
+    - maintenance/index.md
+    - 'Фільтр салону': maintenance/cabin-filter.md
+    - 'Дистанційний сервіс': maintenance/service-remote.md
+  - 'Ремонт та діагностика':
+    - repair/index.md
+    - 'Діагностика помилок': repair/diagnostics.md
+  - 'Ретрофіти та DIY':
+    - diy/index.md
+    - 'Дзеркала з поворотниками': diy/mirrors.md
+    - 'Звукоізоляція': diy/soundproofing.md
+  - 'Як зробити внесок': contribute.md
