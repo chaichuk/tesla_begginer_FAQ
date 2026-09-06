@@ -1,9 +1,9 @@
-﻿backend:
+backend:
   name: github
   repo: chaichuk/tesla_begginer_FAQ
   branch: main
   auth_type: pkce
-  app_id: ПІДСТАВИТИ_CLIENT_ID
+  app_id: Ov23li2sT0GtlXGyLpso
   open_authoring: true # Дозволяє будь-кому створювати Pull Requests!
 
 media_folder: "docs/assets"
