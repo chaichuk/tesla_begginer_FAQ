@@ -1,4 +1,6 @@
-﻿# Tesla Україна — Wiki для власників Tesla
+# Table of contents
+
+* [index](index.md)
 
 ## Перші кроки
 
@@ -11,7 +13,7 @@
 ## Зарядка
 
 * [Огляд зарядки](charging/index.md)
-* [Домашня зарядка](charging/home-charging.md)
+* [Домашня зарядка](zaryadka/domashnya-zaryadka.md)
 * [Адаптери (Type2, CCS, CHAdeMO)](charging/adapters.md)
 * [Supercharger в Україні](charging/supercharger.md)
 * [Підготовка батареї](charging/battery-prep.md)
