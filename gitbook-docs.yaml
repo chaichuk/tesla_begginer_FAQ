@@ -5,5 +5,6 @@
       key: tesla-ukraine-faq
       title: FAQ
       path: faq
+      default: true
       content:
         directory: ./
