@@ -1,4 +1,5 @@
-﻿site:
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
   title: Tesla Ukraine Community Docs
   structure:
     - type: space
