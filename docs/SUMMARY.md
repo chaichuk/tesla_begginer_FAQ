@@ -4,8 +4,8 @@
 
 ## Перші кроки
 
-* [Огляд](getting-started/index.md)
-* [Додаток Tesla](getting-started/app-setup.md)
+* [Огляд](pershi-kroki/index.md)
+* [Додаток Tesla](pershi-kroki/app-setup.md)
 
 ## Зарядка та батарея
 
@@ -17,14 +17,14 @@
 
 ## Обслуговування
 
-* [Огляд](maintenance/index.md)
-* [Фільтр салону](maintenance/cabin-filter.md)
+* [Огляд](obslugovuvannya/index.md)
+* [Фільтр салону](obslugovuvannya/cabin-filter.md)
 
 ## Ретрофіти та DIY
 
-* [Огляд](diy/index.md)
-* [Дзеркала](diy/mirrors.md)
+* [Огляд](retrofiti-ta-diy/index.md)
+* [Дзеркала](retrofiti-ta-diy/mirrors.md)
 
 ## Спільнота
 
-* [Як зробити внесок](contribute.md)
+* [Як зробити внесок](spilnota/contribute.md)

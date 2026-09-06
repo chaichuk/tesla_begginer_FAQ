@@ -12,7 +12,7 @@
 
     Переоформлення авто, налаштування додатку, підключення до акаунту Tesla
 
-    [:octicons-arrow-right-24: Почати](getting-started/index.md)
+    [:octicons-arrow-right-24: Почати](pershi-kroki/index.md)
 *   :material-lightning-bolt: **Зарядка**
 
     Домашні wallbox, адаптери Type2/CCS/CHAdeMO, Supercharger в Україні
@@ -22,12 +22,12 @@
 
     Діагностика, дистанційний сервіс через Варшаву, ТО
 
-    [:octicons-arrow-right-24: Читати](maintenance/index.md)
+    [:octicons-arrow-right-24: Читати](obslugovuvannya/index.md)
 *   :material-wrench: **Ретрофіти та DIY**
 
     Дзеркала, звукоізоляція та інші покращення
 
-    [:octicons-arrow-right-24: Читати](diy/index.md)
+    [:octicons-arrow-right-24: Читати](retrofiti-ta-diy/index.md)
 
 ***
 
@@ -38,4 +38,4 @@
 * **Telegram-чат Tesla Model 3/Y Україна**: понад 937 000 повідомлень
 * **Wiki оновлюється**: автоматично через GitHub Actions
 
-[:material-pencil: Як зробити внесок](contribute.md){ .md-button .md-button--primary }
+[:material-pencil: Як зробити внесок](spilnota/contribute.md){ .md-button .md-button--primary }
