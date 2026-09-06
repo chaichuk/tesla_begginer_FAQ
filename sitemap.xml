@@ -13,22 +13,6 @@
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/charging/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/charging/adapters/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/charging/battery-prep/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/charging/supercharger/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
          <loc>https://chaichuk.github.io/tesla_begginer_FAQ/diy/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
@@ -37,27 +21,11 @@
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/diy/soundproofing/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
          <loc>https://chaichuk.github.io/tesla_begginer_FAQ/getting-started/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/getting-started/account-transfer/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
          <loc>https://chaichuk.github.io/tesla_begginer_FAQ/getting-started/app-setup/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/getting-started/black-list/</loc>
-         <lastmod>2026-09-06</lastmod>
-    </url>
-    <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/getting-started/carfax-check/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
@@ -69,19 +37,23 @@
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/maintenance/service-remote/</loc>
+         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/zaryadka-ta-batareya/ac-charging/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/repair/</loc>
+         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/zaryadka-ta-batareya/charging-adapters/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/repair/diagnostics/</loc>
+         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/zaryadka-ta-batareya/dc-charging/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
     <url>
-         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/zaryadka/domashnya-zaryadka/</loc>
+         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/zaryadka-ta-batareya/hv-battery/</loc>
+         <lastmod>2026-09-06</lastmod>
+    </url>
+    <url>
+         <loc>https://chaichuk.github.io/tesla_begginer_FAQ/zaryadka-ta-batareya/supercharger/</loc>
          <lastmod>2026-09-06</lastmod>
     </url>
 </urlset>
